@@ -29,8 +29,7 @@ function Hero() {
             Discover unparalleled healthcare at Ubud Medical Assistance, 
             where we provide state-of-the-art vaccines, tailor-made homecare services, 
             on-call assistance, and comprehensive health insurance. Located in the vibrant 
-            heart of Ubud, we prioritize your well-being and ensure your comfort through our 
-            advanced medical offerings. Your health, our commitment.
+            heart of Ubud.
             </p>
             <div className="flex gap-8">
               <button className="btn-main btn-bs flex items-center gap-1.5 hover:gap-2" onClick={() => smoothScrollTo('About')}>
