@@ -26,9 +26,11 @@ function Hero() {
               <span className="text-white text-5xl">UBUD MEDICAL ASSISTANCE</span>
             </h1>
             <p className="text-white/85 mb-8">
-            Experience top-notch healthcare at Ubud Medical Assistance, offering cutting-edge
-            vaccines, personalized homecare, on-call services, and health insurance for your 
-            well-being and comfort in the heart of Ubud.
+            Discover unparalleled healthcare at Ubud Medical Assistance, 
+            where we provide state-of-the-art vaccines, tailor-made homecare services, 
+            on-call assistance, and comprehensive health insurance. Located in the vibrant 
+            heart of Ubud, we prioritize your well-being and ensure your comfort through our 
+            advanced medical offerings. Your health, our commitment.
             </p>
             <div className="flex gap-8">
               <button className="btn-main btn-bs flex items-center gap-1.5 hover:gap-2" onClick={() => smoothScrollTo('About')}>
