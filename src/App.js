@@ -9,7 +9,7 @@ import Googlemaps from "./components/Googlemaps";
 import { ImWhatsapp } from 'react-icons/im';
 
 function App() {
-  const whatsappLink = `https://wa.me/6285100811818?text=Hello%20Ubud%20Medical%20Assistance%2C%20I%20need%20Help%20For%20(Please%20tell%20us%20your%20problem)`;
+  const whatsappLink = `https://wa.me/6283897897811?text=Hello%20Ubud%20Medical%20Assistance%2C%20I%20need%20Help%20For%20(Please%20tell%20us%20your%20problem)`;
   return (
     <div className="App">
       {/* Floating WhatsApp */}
