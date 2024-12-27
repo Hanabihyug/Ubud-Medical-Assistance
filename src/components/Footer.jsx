@@ -6,7 +6,7 @@ import { smoothScrollTo } from "./Navbar";
 
 function Footer() {
   const instagramUrl = "https://www.instagram.com/umaclinicubud/";
-  const whatsappUrl = "https://wa.me/6285100811818?text=Hello%20Ubud%20Medical%20Assistance%2C%20I%20need%20Help%20For%20(Please%20tell%20us%20your%20problem)";
+  const whatsappUrl = "https://wa.me/6283897897811?text=Hello%20Ubud%20Medical%20Assistance%2C%20I%20need%20Help%20For%20(Please%20tell%20us%20your%20problem)";
   const emailUrl = "mailto:u.medicalassistant@gmail.com";
   return (
     <div className="pt-28">
